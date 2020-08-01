@@ -6,6 +6,7 @@ end
 
 def create_an_array
   test = ["cat","dog","horse","frog"]
+  return test
 end
 
 
