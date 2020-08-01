@@ -44,7 +44,6 @@ end
 
 
 def retrieve_first_element_from_array(array)
-  test = ["cat","dog","horse","frog"]
   [0]
 end
 
@@ -52,6 +51,5 @@ end
 
 
 def retrieve_last_element_from_array(array)
-  test = ["cat","dog","horse","frog"]
   [-1]
 end
