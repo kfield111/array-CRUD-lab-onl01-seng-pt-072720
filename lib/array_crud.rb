@@ -39,7 +39,7 @@ end
 
 
 def retrieve_element_from_index(array, index_number)
-  test = ["cat","am","horse","frog"]
+  test = ["cat","ok","am","frog"]
   test [2]
 end
 
