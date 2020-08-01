@@ -25,14 +25,12 @@ end
 
 
 def remove_element_from_end_of_array(array)
-  test = ["cat","dog","horse","frog"]
   test.pop
 end
 
 
 
 def remove_element_from_start_of_array(array)
-  test = ["cat","dog","horse","frog"]
   test.shift
 end
 
@@ -40,14 +38,14 @@ end
 
 def retrieve_element_from_index(array, index_number)
   test = ["cat","dog","horse","frog"]
-  test(2)
+  [2]
 end
 
 
 
 def retrieve_first_element_from_array(array)
   test = ["cat","dog","horse","frog"]
-  test(0)
+  [0]
 end
 
 
@@ -55,5 +53,5 @@ end
 
 def retrieve_last_element_from_array(array)
   test = ["cat","dog","horse","frog"]
-  test(-1)
+  [-1]
 end
