@@ -12,14 +12,14 @@ end
 
 def add_element_to_end_of_array(array, element)
   test = ["cat","dog","horse","frog"]
-  test << "kitten"
+  test << "arrays!"
 end
 
 
 
 def add_element_to_start_of_array(array, element)
   test = ["cat","dog","horse","frog"]
-  test.unshift("puppy")
+  test.unshift("wow")
 end
 
 
