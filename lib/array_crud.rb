@@ -48,5 +48,5 @@ end
 
 
 def retrieve_last_element_from_array(array)
-
+  test(-1)
 end
